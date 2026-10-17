@@ -2,6 +2,13 @@
 
 > **Lossless, topic-preserving dialogue extraction & localization toolchain for *The Elder Scrolls III: Morrowind* and OpenMW.**
 
+<img width="885" height="750" alt="image" src="https://github.com/user-attachments/assets/e99b5178-17f4-43ec-b754-445891e8beef" />
+<img width="884" height="766" alt="image" src="https://github.com/user-attachments/assets/f2ea1f54-8f70-45b9-b68c-f2976dde5a15" />
+<img width="888" height="761" alt="image" src="https://github.com/user-attachments/assets/976a5e54-fab0-4edb-a462-8bc889b3df33" />
+
+
+
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenMW Compatible](https://img.shields.io/badge/OpenMW-100%25%20Compatible-brightgreen.svg)](https://openmw.org/)
